@@ -9,4 +9,4 @@ Objective 2 : Analyze the steady state solutions and transient solutions
 Things to remember:
 
 1. 'Report.pdf' has all the plots and equations.
-2. 'explicit_method.m' and 'implicit_method.m' are the main matlab files.
+2. 'explicit_method.m' and 'implicit_method.m' are the main MATLAB files.
